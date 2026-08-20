@@ -1,0 +1,74 @@
+{
+  "grade_filtros": {
+    "type": "itemgrid",
+    "orientation": "vertical",
+    "margin": "2,2",
+    "item_margin": "3,3",
+    "item_size": "32",
+    "h_alignment": "center",
+    "rows": [
+      [
+        "filtro_bau",
+        "filtro_habilidade",
+        "filtro_espirito",
+        "filtro_cristal"
+      ],
+      [
+        "filtro_diario",
+        "filtro_loja"
+      ]
+    ]
+  },
+  "grade_habilidades": {
+    "type": "itemgrid",
+    "orientation": "vertical",
+    "margin": "2,2",
+    "item_margin": "3,3",
+    "item_size": "32",
+    "h_alignment": "center",
+    "rows": [
+      [
+        "espada",
+        "ataque_carregado",
+        "investida",
+        "pulo_duplo"
+      ],
+      [
+        "chamas",
+        "respiracao",
+        "fantasma"
+      ]
+    ]
+  },
+  "grade_chaves": {
+    "type": "itemgrid",
+    "orientation": "vertical",
+    "margin": "2,2",
+    "item_margin": "3,3",
+    "item_size": "32",
+    "h_alignment": "center",
+    "rows": [
+      [
+        "chave1",
+        "chave2",
+        "chave3"
+      ]
+    ]
+  },
+  "grade_contadores": {
+    "type": "itemgrid",
+    "orientation": "vertical",
+    "margin": "2,2",
+    "item_margin": "3,3",
+    "item_size": "36",
+    "h_alignment": "center",
+    "rows": [
+      [
+        "artefato_pm",
+        "fragmento_coracao",
+        "diario",
+        "espirito"
+      ]
+    ]
+  }
+}

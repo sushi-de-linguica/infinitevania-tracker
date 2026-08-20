@@ -1,0 +1,32 @@
+[
+  {
+    "name": "iv_world",
+    "location_size": 80,
+    "location_border_thickness": 10,
+    "img": "images/maps/world.png"
+  },
+  {
+    "name": "iv_lobby",
+    "location_size": 24,
+    "location_border_thickness": 3,
+    "img": "images/maps/lobby.png"
+  },
+  {
+    "name": "iv_forest",
+    "location_size": 44,
+    "location_border_thickness": 5,
+    "img": "images/maps/forest.png"
+  },
+  {
+    "name": "iv_volcano",
+    "location_size": 44,
+    "location_border_thickness": 5,
+    "img": "images/maps/volcano.png"
+  },
+  {
+    "name": "iv_castle",
+    "location_size": 44,
+    "location_border_thickness": 5,
+    "img": "images/maps/castle.png"
+  }
+]

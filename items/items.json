@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Espada",
+    "type": "toggle",
+    "img": "images/itens/espada.png",
+    "codes": "espada"
+  },
+  {
+    "name": "Ataque Carregado",
+    "type": "toggle",
+    "img": "images/itens/ataque_carregado.png",
+    "codes": "ataque_carregado"
+  },
+  {
+    "name": "Investida",
+    "type": "toggle",
+    "img": "images/itens/investida.png",
+    "codes": "investida"
+  },
+  {
+    "name": "Pulo Duplo",
+    "type": "toggle",
+    "img": "images/itens/pulo_duplo.png",
+    "codes": "pulo_duplo"
+  },
+  {
+    "name": "Bola de Fogo",
+    "type": "toggle",
+    "img": "images/itens/chamas.png",
+    "codes": "chamas"
+  },
+  {
+    "name": "Respiração Aquática",
+    "type": "toggle",
+    "img": "images/itens/respiracao.png",
+    "codes": "respiracao"
+  },
+  {
+    "name": "Modo Fantasma",
+    "type": "toggle",
+    "img": "images/itens/fantasma.png",
+    "codes": "fantasma"
+  },
+  {
+    "name": "Chave do Ancião 1",
+    "type": "toggle",
+    "img": "images/itens/chave1.png",
+    "codes": "chave1"
+  },
+  {
+    "name": "Chave do Ancião 2",
+    "type": "toggle",
+    "img": "images/itens/chave2.png",
+    "codes": "chave2"
+  },
+  {
+    "name": "Chave do Ancião 3",
+    "type": "toggle",
+    "img": "images/itens/chave3.png",
+    "codes": "chave3"
+  },
+  {
+    "name": "Artefato de PM",
+    "type": "consumable",
+    "img": "images/itens/artefato_pm.png",
+    "codes": "artefato_pm",
+    "min_quantity": 0,
+    "max_quantity": 5,
+    "initial_quantity": 0,
+    "overlay_background": "000000"
+  },
+  {
+    "name": "Fragmento de Coração",
+    "type": "consumable",
+    "img": "images/itens/fragmento_coracao.png",
+    "codes": "fragmento_coracao",
+    "min_quantity": 0,
+    "max_quantity": 10,
+    "initial_quantity": 0,
+    "overlay_background": "000000"
+  },
+  {
+    "name": "Diário",
+    "type": "consumable",
+    "img": "images/itens/diario.png",
+    "codes": "diario",
+    "min_quantity": 0,
+    "max_quantity": 16,
+    "initial_quantity": 0,
+    "overlay_background": "000000"
+  },
+  {
+    "name": "Espírito",
+    "type": "consumable",
+    "img": "images/itens/espirito.png",
+    "codes": "espirito",
+    "min_quantity": 0,
+    "max_quantity": 30,
+    "initial_quantity": 0,
+    "overlay_background": "000000"
+  }
+]

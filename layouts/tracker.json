@@ -1,0 +1,95 @@
+{
+  "tracker_default": {
+    "type": "container",
+    "background": "#14141c",
+    "content": {
+      "type": "dock",
+      "dropshadow": false,
+      "content": [
+        {
+          "type": "dock",
+          "dock": "bottom",
+          "dropshadow": false,
+          "background": "#20202c",
+          "content": [
+            {
+              "type": "group",
+              "header": "Filtros",
+              "dock": "left",
+              "margin": "0,0,4,0",
+              "content": {
+                "type": "layout",
+                "key": "grade_filtros",
+                "h_alignment": "center",
+                "v_alignment": "center"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Habilidades",
+              "dock": "left",
+              "margin": "0,0,4,0",
+              "content": {
+                "type": "layout",
+                "key": "grade_habilidades",
+                "h_alignment": "center",
+                "v_alignment": "center"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Chaves",
+              "dock": "left",
+              "margin": "0,0,4,0",
+              "content": {
+                "type": "layout",
+                "key": "grade_chaves",
+                "h_alignment": "center",
+                "v_alignment": "center"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Contadores",
+              "dock": "left",
+              "margin": "0,0,4,0",
+              "content": {
+                "type": "layout",
+                "key": "grade_contadores",
+                "h_alignment": "center",
+                "v_alignment": "center"
+              }
+            }
+          ]
+        },
+        {
+          "type": "dock",
+          "content": {
+            "type": "layout",
+            "key": "mapas"
+          }
+        }
+      ]
+    }
+  },
+  "tracker_broadcast": {
+    "type": "array",
+    "orientation": "vertical",
+    "background": "#20202c",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "layout",
+        "key": "grade_habilidades"
+      },
+      {
+        "type": "layout",
+        "key": "grade_chaves"
+      },
+      {
+        "type": "layout",
+        "key": "grade_contadores"
+      }
+    ]
+  }
+}

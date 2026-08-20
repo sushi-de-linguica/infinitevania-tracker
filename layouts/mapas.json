@@ -1,0 +1,52 @@
+{
+  "mapas": {
+    "type": "tabbed",
+    "tabs": [
+      {
+        "title": "Mundo",
+        "content": {
+          "type": "map",
+          "maps": [
+            "iv_world"
+          ]
+        }
+      },
+      {
+        "title": "Lobby",
+        "content": {
+          "type": "map",
+          "maps": [
+            "iv_lobby"
+          ]
+        }
+      },
+      {
+        "title": "Floresta",
+        "content": {
+          "type": "map",
+          "maps": [
+            "iv_forest"
+          ]
+        }
+      },
+      {
+        "title": "Vulcão",
+        "content": {
+          "type": "map",
+          "maps": [
+            "iv_volcano"
+          ]
+        }
+      },
+      {
+        "title": "Castelo",
+        "content": {
+          "type": "map",
+          "maps": [
+            "iv_castle"
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Infinitevania-tracker",
+  "game_name": "Infinitevania",
+  "package_version": "1.0.0",
+  "package_uid": "infinitevania_pt_v1",
+  "author": "sushidelinguica",
+  "min_poptracker_version": "0.25.0",
+  "variants": {
+    "standard": {
+      "display_name": "Mapa completo",
+      "flags": ["uat"]
+    }
+  }
+}

@@ -1,0 +1,15 @@
+UAT_ITEM_MAPPING = {
+  ["item/Melee"]         = { code = "espada",             kind = "toggle" },
+  ["item/ChargedAttack"] = { code = "ataque_carregado",   kind = "toggle" },
+  ["item/Dash"]          = { code = "investida",          kind = "toggle" },
+  ["item/DoubleJump"]    = { code = "pulo_duplo",         kind = "toggle" },
+  ["item/flames"]        = { code = "chamas",             kind = "toggle" },
+  ["item/waterUpgrade"]  = { code = "respiracao",         kind = "toggle" },
+  ["item/Ghost"]         = { code = "fantasma",           kind = "toggle" },
+  ["item/DoorKey1"]      = { code = "chave1",             kind = "toggle" },
+  ["item/DoorKey2"]      = { code = "chave2",             kind = "toggle" },
+  ["item/DoorKey3"]      = { code = "chave3",             kind = "toggle" },
+  ["item/HeartFragment"] = { code = "fragmento_coracao",  kind = "count", max = 10 },
+  ["item/Spirits"]       = { code = "espirito",           kind = "count", max = 30 },
+  ["item/Diaries"]       = { code = "diario",             kind = "count", max = 16 },
+}

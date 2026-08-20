@@ -1,0 +1,134 @@
+[
+  {
+    "name": "Baús",
+    "type": "progressive",
+    "loop": true,
+    "allow_disabled": false,
+    "initial_stage_idx": 1,
+    "stages": [
+      {
+        "name": "Baús — ocultos",
+        "codes": "filtro_bau, filtro_bau_off",
+        "img": "images/filtros/bau.png",
+        "img_mods": "@disabled",
+        "inherit_codes": false
+      },
+      {
+        "name": "Baús — visíveis",
+        "codes": "filtro_bau, filtro_bau_on",
+        "img": "images/filtros/bau.png",
+        "inherit_codes": false
+      }
+    ]
+  },
+  {
+    "name": "Habilidades",
+    "type": "progressive",
+    "loop": true,
+    "allow_disabled": false,
+    "initial_stage_idx": 1,
+    "stages": [
+      {
+        "name": "Habilidades — ocultos",
+        "codes": "filtro_habilidade, filtro_habilidade_off",
+        "img": "images/filtros/habilidade.png",
+        "img_mods": "@disabled",
+        "inherit_codes": false
+      },
+      {
+        "name": "Habilidades — visíveis",
+        "codes": "filtro_habilidade, filtro_habilidade_on",
+        "img": "images/filtros/habilidade.png",
+        "inherit_codes": false
+      }
+    ]
+  },
+  {
+    "name": "Espíritos",
+    "type": "progressive",
+    "loop": true,
+    "allow_disabled": false,
+    "initial_stage_idx": 1,
+    "stages": [
+      {
+        "name": "Espíritos — ocultos",
+        "codes": "filtro_espirito, filtro_espirito_off",
+        "img": "images/filtros/espirito.png",
+        "img_mods": "@disabled",
+        "inherit_codes": false
+      },
+      {
+        "name": "Espíritos — visíveis",
+        "codes": "filtro_espirito, filtro_espirito_on",
+        "img": "images/filtros/espirito.png",
+        "inherit_codes": false
+      }
+    ]
+  },
+  {
+    "name": "Cristais",
+    "type": "progressive",
+    "loop": true,
+    "allow_disabled": false,
+    "initial_stage_idx": 1,
+    "stages": [
+      {
+        "name": "Cristais — ocultos",
+        "codes": "filtro_cristal, filtro_cristal_off",
+        "img": "images/filtros/cristal.png",
+        "img_mods": "@disabled",
+        "inherit_codes": false
+      },
+      {
+        "name": "Cristais — visíveis",
+        "codes": "filtro_cristal, filtro_cristal_on",
+        "img": "images/filtros/cristal.png",
+        "inherit_codes": false
+      }
+    ]
+  },
+  {
+    "name": "Diários",
+    "type": "progressive",
+    "loop": true,
+    "allow_disabled": false,
+    "initial_stage_idx": 1,
+    "stages": [
+      {
+        "name": "Diários — ocultos",
+        "codes": "filtro_diario, filtro_diario_off",
+        "img": "images/filtros/diario.png",
+        "img_mods": "@disabled",
+        "inherit_codes": false
+      },
+      {
+        "name": "Diários — visíveis",
+        "codes": "filtro_diario, filtro_diario_on",
+        "img": "images/filtros/diario.png",
+        "inherit_codes": false
+      }
+    ]
+  },
+  {
+    "name": "Loja",
+    "type": "progressive",
+    "loop": true,
+    "allow_disabled": false,
+    "initial_stage_idx": 1,
+    "stages": [
+      {
+        "name": "Loja — ocultos",
+        "codes": "filtro_loja, filtro_loja_off",
+        "img": "images/filtros/loja.png",
+        "img_mods": "@disabled",
+        "inherit_codes": false
+      },
+      {
+        "name": "Loja — visíveis",
+        "codes": "filtro_loja, filtro_loja_on",
+        "img": "images/filtros/loja.png",
+        "inherit_codes": false
+      }
+    ]
+  }
+]
