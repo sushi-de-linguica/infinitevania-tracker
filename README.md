@@ -4,6 +4,8 @@ Pack de [PopTracker](https://github.com/black-sliver/PopTracker) para
 Infinitevania com **auto-tracking**: jogando com o
 infinitevania-randomizer (em breve).
 
+<img width="1910" height="1026" alt="image" src="https://github.com/user-attachments/assets/2f48badc-9bb1-4137-9563-df5de5605619" />
+
 ## Como usar
 
 1. Instale o PopTracker (>= 0.25) e carregue este pack (aponte o diretório de
