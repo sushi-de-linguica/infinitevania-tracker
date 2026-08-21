@@ -37,7 +37,7 @@ local function update_items(store)
     end
     local pm = tonumber(store:ReadVariable("item/PmArtifact")) or 0
     local mundo = Tracker:FindObjectForCode("artefato_pm")
-    if mundo then mundo.AcquiredCount = math.min(pm, 5) end
+    if mundo then mundo.AcquiredCount = math.min(pm, 7) end
 end
 
 local function on_change(store, changed)

@@ -65,7 +65,7 @@
     "img": "images/itens/artefato_pm.png",
     "codes": "artefato_pm",
     "min_quantity": 0,
-    "max_quantity": 5,
+    "max_quantity": 7,
     "initial_quantity": 0,
     "overlay_background": "000000"
   },

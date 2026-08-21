@@ -111,8 +111,8 @@
                 "chest_unopened_img": "images/checks/crystal.png",
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
-                  "espada",
-                  "chamas"
+                  "espada,fantasma,artefato_pm:4",
+                  "chamas,fantasma,artefato_pm:4"
                 ]
               }
             ],
@@ -179,7 +179,10 @@
                   "filtro_diario_on"
                 ],
                 "chest_unopened_img": "images/checks/diary.png",
-                "chest_opened_img": "images/checks/diary_ok.png"
+                "chest_opened_img": "images/checks/diary_ok.png",
+                "access_rules": [
+                  "fantasma,artefato_pm:4"
+                ]
               }
             ],
             "map_locations": [
@@ -241,7 +244,10 @@
                   "filtro_espirito_on"
                 ],
                 "chest_unopened_img": "images/checks/spirit.png",
-                "chest_opened_img": "images/checks/spirit_ok.png"
+                "chest_opened_img": "images/checks/spirit_ok.png",
+                "access_rules": [
+                  "fantasma,artefato_pm:4"
+                ]
               }
             ],
             "map_locations": [
@@ -272,7 +278,10 @@
                   "filtro_loja_on"
                 ],
                 "chest_unopened_img": "images/checks/shop.png",
-                "chest_opened_img": "images/checks/shop_ok.png"
+                "chest_opened_img": "images/checks/shop_ok.png",
+                "access_rules": [
+                  "artefato_pm"
+                ]
               },
               {
                 "name": "Loja: Artefato 2 (shop:MerchantItem_Artifact_2)",
@@ -280,7 +289,10 @@
                   "filtro_loja_on"
                 ],
                 "chest_unopened_img": "images/checks/shop.png",
-                "chest_opened_img": "images/checks/shop_ok.png"
+                "chest_opened_img": "images/checks/shop_ok.png",
+                "access_rules": [
+                  "artefato_pm"
+                ]
               },
               {
                 "name": "Loja: Fragmento de Coração 1 (shop:MerchantItem_Heart_1)",
@@ -288,7 +300,10 @@
                   "filtro_loja_on"
                 ],
                 "chest_unopened_img": "images/checks/shop.png",
-                "chest_opened_img": "images/checks/shop_ok.png"
+                "chest_opened_img": "images/checks/shop_ok.png",
+                "access_rules": [
+                  "artefato_pm"
+                ]
               },
               {
                 "name": "Loja: Fragmento de Coração 2 (shop:MerchantItem_Heart_2)",
@@ -296,7 +311,10 @@
                   "filtro_loja_on"
                 ],
                 "chest_unopened_img": "images/checks/shop.png",
-                "chest_opened_img": "images/checks/shop_ok.png"
+                "chest_opened_img": "images/checks/shop_ok.png",
+                "access_rules": [
+                  "artefato_pm"
+                ]
               },
               {
                 "name": "Loja: Fragmento de Coração 3 (shop:MerchantItem_Heart_3)",
@@ -304,7 +322,10 @@
                   "filtro_loja_on"
                 ],
                 "chest_unopened_img": "images/checks/shop.png",
-                "chest_opened_img": "images/checks/shop_ok.png"
+                "chest_opened_img": "images/checks/shop_ok.png",
+                "access_rules": [
+                  "artefato_pm"
+                ]
               },
               {
                 "name": "Loja: Espírito das Almas (shop:spirit:1)",
@@ -312,7 +333,10 @@
                   "filtro_loja_on"
                 ],
                 "chest_unopened_img": "images/checks/shop.png",
-                "chest_opened_img": "images/checks/shop_ok.png"
+                "chest_opened_img": "images/checks/shop_ok.png",
+                "access_rules": [
+                  "artefato_pm"
+                ]
               },
               {
                 "name": "Loja: Espírito do Colecionador (shop:spirit:12)",
@@ -320,7 +344,10 @@
                   "filtro_loja_on"
                 ],
                 "chest_unopened_img": "images/checks/shop.png",
-                "chest_opened_img": "images/checks/shop_ok.png"
+                "chest_opened_img": "images/checks/shop_ok.png",
+                "access_rules": [
+                  "artefato_pm"
+                ]
               },
               {
                 "name": "Loja: Espírito do Coração (shop:spirit:13)",
@@ -328,7 +355,10 @@
                   "filtro_loja_on"
                 ],
                 "chest_unopened_img": "images/checks/shop.png",
-                "chest_opened_img": "images/checks/shop_ok.png"
+                "chest_opened_img": "images/checks/shop_ok.png",
+                "access_rules": [
+                  "artefato_pm"
+                ]
               },
               {
                 "name": "Loja: Espírito dos Perdidos (shop:spirit:14)",
@@ -336,7 +366,10 @@
                   "filtro_loja_on"
                 ],
                 "chest_unopened_img": "images/checks/shop.png",
-                "chest_opened_img": "images/checks/shop_ok.png"
+                "chest_opened_img": "images/checks/shop_ok.png",
+                "access_rules": [
+                  "artefato_pm"
+                ]
               },
               {
                 "name": "Loja: Espírito do Conhecimento (shop:spirit:15)",
@@ -344,7 +377,10 @@
                   "filtro_loja_on"
                 ],
                 "chest_unopened_img": "images/checks/shop.png",
-                "chest_opened_img": "images/checks/shop_ok.png"
+                "chest_opened_img": "images/checks/shop_ok.png",
+                "access_rules": [
+                  "artefato_pm"
+                ]
               },
               {
                 "name": "Loja: Espírito da Chama Eterna (shop:spirit:16)",
@@ -352,7 +388,10 @@
                   "filtro_loja_on"
                 ],
                 "chest_unopened_img": "images/checks/shop.png",
-                "chest_opened_img": "images/checks/shop_ok.png"
+                "chest_opened_img": "images/checks/shop_ok.png",
+                "access_rules": [
+                  "artefato_pm"
+                ]
               },
               {
                 "name": "Loja: Espírito da Dor (shop:spirit:17)",
@@ -360,7 +399,10 @@
                   "filtro_loja_on"
                 ],
                 "chest_unopened_img": "images/checks/shop.png",
-                "chest_opened_img": "images/checks/shop_ok.png"
+                "chest_opened_img": "images/checks/shop_ok.png",
+                "access_rules": [
+                  "artefato_pm"
+                ]
               },
               {
                 "name": "Loja: Espírito Resiliente (shop:spirit:26)",
@@ -368,7 +410,10 @@
                   "filtro_loja_on"
                 ],
                 "chest_unopened_img": "images/checks/shop.png",
-                "chest_opened_img": "images/checks/shop_ok.png"
+                "chest_opened_img": "images/checks/shop_ok.png",
+                "access_rules": [
+                  "artefato_pm"
+                ]
               },
               {
                 "name": "Loja: Espírito Ígneo (shop:spirit:28)",
@@ -376,7 +421,10 @@
                   "filtro_loja_on"
                 ],
                 "chest_unopened_img": "images/checks/shop.png",
-                "chest_opened_img": "images/checks/shop_ok.png"
+                "chest_opened_img": "images/checks/shop_ok.png",
+                "access_rules": [
+                  "artefato_pm"
+                ]
               },
               {
                 "name": "Loja: Espírito da Velocidade (shop:spirit:7)",
@@ -384,7 +432,10 @@
                   "filtro_loja_on"
                 ],
                 "chest_unopened_img": "images/checks/shop.png",
-                "chest_opened_img": "images/checks/shop_ok.png"
+                "chest_opened_img": "images/checks/shop_ok.png",
+                "access_rules": [
+                  "artefato_pm"
+                ]
               },
               {
                 "name": "Loja: Espírito do Ouriço Azul (shop:spirit:9)",
@@ -392,7 +443,10 @@
                   "filtro_loja_on"
                 ],
                 "chest_unopened_img": "images/checks/shop.png",
-                "chest_opened_img": "images/checks/shop_ok.png"
+                "chest_opened_img": "images/checks/shop_ok.png",
+                "access_rules": [
+                  "artefato_pm"
+                ]
               }
             ],
             "map_locations": [
@@ -430,7 +484,7 @@
                 "chest_unopened_img": "images/checks/chest.png",
                 "chest_opened_img": "images/checks/chest_ok.png",
                 "access_rules": [
-                  "fantasma"
+                  "investida,pulo_duplo,fantasma,artefato_pm:4"
                 ]
               }
             ],
@@ -555,7 +609,11 @@
                   "filtro_bau_on"
                 ],
                 "chest_unopened_img": "images/checks/chest.png",
-                "chest_opened_img": "images/checks/chest_ok.png"
+                "chest_opened_img": "images/checks/chest_ok.png",
+                "access_rules": [
+                  "investida,pulo_duplo",
+                  "[espada,investida]"
+                ]
               }
             ],
             "map_locations": [
@@ -588,7 +646,8 @@
                 "chest_unopened_img": "images/checks/boss.png",
                 "chest_opened_img": "images/checks/boss_ok.png",
                 "access_rules": [
-                  "espada"
+                  "espada,investida",
+                  "[espada]"
                 ]
               }
             ],
@@ -761,8 +820,9 @@
                 "chest_unopened_img": "images/checks/crystal.png",
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
-                  "espada",
-                  "chamas"
+                  "espada,pulo_duplo",
+                  "pulo_duplo,chamas",
+                  "[espada]"
                 ]
               }
             ],
@@ -831,8 +891,9 @@
                 "chest_unopened_img": "images/checks/crystal.png",
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
-                  "espada",
-                  "chamas"
+                  "espada,investida,pulo_duplo",
+                  "investida,pulo_duplo,chamas",
+                  "[espada,investida]"
                 ]
               }
             ],
@@ -866,8 +927,8 @@
                 "chest_unopened_img": "images/checks/crystal.png",
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
-                  "espada,fantasma",
-                  "chamas,fantasma"
+                  "espada,investida,respiracao,fantasma",
+                  "investida,chamas,respiracao,fantasma"
                 ]
               }
             ],
@@ -1041,8 +1102,8 @@
                 "chest_unopened_img": "images/checks/crystal.png",
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
-                  "espada",
-                  "chamas"
+                  "espada,investida,respiracao",
+                  "investida,chamas,respiracao"
                 ]
               }
             ],
@@ -1198,7 +1259,11 @@
                   "filtro_diario_on"
                 ],
                 "chest_unopened_img": "images/checks/diary.png",
-                "chest_opened_img": "images/checks/diary_ok.png"
+                "chest_opened_img": "images/checks/diary_ok.png",
+                "access_rules": [
+                  "investida",
+                  "[]"
+                ]
               }
             ],
             "map_locations": [
@@ -1229,7 +1294,10 @@
                   "filtro_diario_on"
                 ],
                 "chest_unopened_img": "images/checks/diary.png",
-                "chest_opened_img": "images/checks/diary_ok.png"
+                "chest_opened_img": "images/checks/diary_ok.png",
+                "access_rules": [
+                  "investida,respiracao"
+                ]
               }
             ],
             "map_locations": [
@@ -1260,7 +1328,11 @@
                   "filtro_espirito_on"
                 ],
                 "chest_unopened_img": "images/checks/spirit.png",
-                "chest_opened_img": "images/checks/spirit_ok.png"
+                "chest_opened_img": "images/checks/spirit_ok.png",
+                "access_rules": [
+                  "investida",
+                  "[]"
+                ]
               }
             ],
             "map_locations": [
@@ -1293,7 +1365,8 @@
                 "chest_unopened_img": "images/checks/spirit.png",
                 "chest_opened_img": "images/checks/spirit_ok.png",
                 "access_rules": [
-                  "chamas"
+                  "chamas,fantasma,artefato_pm:6",
+                  "investida,pulo_duplo,chamas"
                 ]
               }
             ],
@@ -1418,7 +1491,10 @@
                   "filtro_espirito_on"
                 ],
                 "chest_unopened_img": "images/checks/spirit.png",
-                "chest_opened_img": "images/checks/spirit_ok.png"
+                "chest_opened_img": "images/checks/spirit_ok.png",
+                "access_rules": [
+                  "respiracao"
+                ]
               }
             ],
             "map_locations": [
@@ -1451,7 +1527,8 @@
                 "chest_unopened_img": "images/checks/crystal.png",
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
-                  "chamas"
+                  "chamas,fantasma,artefato_pm:6",
+                  "investida,pulo_duplo,chamas"
                 ]
               },
               {
@@ -1462,7 +1539,8 @@
                 "chest_unopened_img": "images/checks/crystal.png",
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
-                  "chamas"
+                  "chamas,fantasma,artefato_pm:6",
+                  "investida,pulo_duplo,chamas"
                 ]
               },
               {
@@ -1473,7 +1551,8 @@
                 "chest_unopened_img": "images/checks/crystal.png",
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
-                  "chamas"
+                  "chamas,fantasma,artefato_pm:6",
+                  "investida,pulo_duplo,chamas"
                 ]
               }
             ],
