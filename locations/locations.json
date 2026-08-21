@@ -516,7 +516,10 @@
                   "filtro_bau_on"
                 ],
                 "chest_unopened_img": "images/checks/chest.png",
-                "chest_opened_img": "images/checks/chest_ok.png"
+                "chest_opened_img": "images/checks/chest_ok.png",
+                "access_rules": [
+                  "investida,respiracao"
+                ]
               }
             ],
             "map_locations": [
