@@ -9,6 +9,7 @@ UAT_ITEM_MAPPING = {
   ["item/DoorKey1"]      = { code = "chave1",             kind = "toggle" },
   ["item/DoorKey2"]      = { code = "chave2",             kind = "toggle" },
   ["item/DoorKey3"]      = { code = "chave3",             kind = "toggle" },
+  ["item/SpiritStrength"] = { code = "espirito_forca",    kind = "toggle" },
   ["item/HeartFragment"] = { code = "fragmento_coracao",  kind = "count", max = 10 },
   ["item/Spirits"]       = { code = "espirito",           kind = "count", max = 30 },
   ["item/Diaries"]       = { code = "diario",             kind = "count", max = 16 },

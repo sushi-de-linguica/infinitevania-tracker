@@ -17,7 +17,8 @@
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
                   "espada",
-                  "chamas"
+                  "chamas,artefato_pm",
+                  "espirito_forca,artefato_pm:3"
                 ]
               },
               {
@@ -29,7 +30,8 @@
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
                   "espada",
-                  "chamas"
+                  "chamas,artefato_pm",
+                  "espirito_forca,artefato_pm:3"
                 ]
               },
               {
@@ -41,7 +43,8 @@
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
                   "espada",
-                  "chamas"
+                  "chamas,artefato_pm",
+                  "espirito_forca,artefato_pm:3"
                 ]
               },
               {
@@ -53,7 +56,8 @@
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
                   "espada",
-                  "chamas"
+                  "chamas,artefato_pm",
+                  "espirito_forca,artefato_pm:3"
                 ]
               },
               {
@@ -65,7 +69,8 @@
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
                   "espada",
-                  "chamas"
+                  "chamas,artefato_pm",
+                  "espirito_forca,artefato_pm:3"
                 ]
               },
               {
@@ -77,7 +82,8 @@
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
                   "espada",
-                  "chamas"
+                  "chamas,artefato_pm",
+                  "espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -112,7 +118,8 @@
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
                   "espada,fantasma,artefato_pm:4",
-                  "chamas,fantasma,artefato_pm:4"
+                  "chamas,fantasma,artefato_pm:4",
+                  "fantasma,espirito_forca,artefato_pm:4"
                 ]
               }
             ],
@@ -147,7 +154,8 @@
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
                   "espada,pulo_duplo",
-                  "pulo_duplo,chamas"
+                  "pulo_duplo,chamas,artefato_pm",
+                  "pulo_duplo,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -291,7 +299,8 @@
                 "chest_unopened_img": "images/checks/shop.png",
                 "chest_opened_img": "images/checks/shop_ok.png",
                 "access_rules": [
-                  "espada,investida,pulo_duplo,chamas,artefato_pm"
+                  "espada,investida,pulo_duplo,chamas,artefato_pm",
+                  "espada,investida,pulo_duplo,espirito_forca,artefato_pm:3"
                 ]
               },
               {
@@ -379,7 +388,8 @@
                 "chest_unopened_img": "images/checks/shop.png",
                 "chest_opened_img": "images/checks/shop_ok.png",
                 "access_rules": [
-                  "espada,investida,pulo_duplo,chamas,artefato_pm"
+                  "espada,investida,pulo_duplo,chamas,artefato_pm",
+                  "espada,investida,pulo_duplo,espirito_forca,artefato_pm:3"
                 ]
               },
               {
@@ -390,7 +400,8 @@
                 "chest_unopened_img": "images/checks/shop.png",
                 "chest_opened_img": "images/checks/shop_ok.png",
                 "access_rules": [
-                  "espada,investida,pulo_duplo,chamas,artefato_pm"
+                  "espada,investida,pulo_duplo,chamas,artefato_pm",
+                  "espada,investida,pulo_duplo,espirito_forca,artefato_pm:3"
                 ]
               },
               {
@@ -718,7 +729,8 @@
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
                   "espada",
-                  "chamas"
+                  "chamas,artefato_pm",
+                  "espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -753,7 +765,8 @@
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
                   "espada",
-                  "chamas"
+                  "chamas,artefato_pm",
+                  "espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -788,7 +801,8 @@
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
                   "espada",
-                  "chamas"
+                  "chamas,artefato_pm",
+                  "espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -823,7 +837,8 @@
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
                   "espada,pulo_duplo",
-                  "pulo_duplo,chamas",
+                  "pulo_duplo,chamas,artefato_pm",
+                  "pulo_duplo,espirito_forca,artefato_pm:3",
                   "espada,[pulo_duplo]"
                 ]
               }
@@ -859,7 +874,8 @@
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
                   "espada",
-                  "chamas"
+                  "chamas,artefato_pm",
+                  "espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -894,7 +910,8 @@
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
                   "espada,investida,pulo_duplo",
-                  "investida,pulo_duplo,chamas",
+                  "investida,pulo_duplo,chamas,artefato_pm",
+                  "investida,pulo_duplo,espirito_forca,artefato_pm:3",
                   "espada,investida,[pulo_duplo]"
                 ]
               }
@@ -930,7 +947,8 @@
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
                   "espada,investida,respiracao",
-                  "investida,chamas,respiracao"
+                  "investida,chamas,respiracao,artefato_pm",
+                  "investida,respiracao,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -965,7 +983,8 @@
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
                   "espada",
-                  "chamas"
+                  "chamas,artefato_pm",
+                  "espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -1000,7 +1019,8 @@
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
                   "espada,investida,pulo_duplo",
-                  "investida,pulo_duplo,chamas"
+                  "investida,pulo_duplo,chamas,artefato_pm",
+                  "investida,pulo_duplo,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -1035,7 +1055,8 @@
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
                   "espada",
-                  "chamas"
+                  "chamas,artefato_pm",
+                  "espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -1070,7 +1091,8 @@
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
                   "espada",
-                  "chamas"
+                  "chamas,artefato_pm",
+                  "espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -1105,7 +1127,8 @@
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
                   "espada,investida,respiracao",
-                  "investida,chamas,respiracao"
+                  "investida,chamas,respiracao,artefato_pm",
+                  "investida,respiracao,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -1368,7 +1391,9 @@
                 "chest_opened_img": "images/checks/spirit_ok.png",
                 "access_rules": [
                   "chamas,fantasma,artefato_pm:6",
-                  "investida,pulo_duplo,chamas,artefato_pm"
+                  "fantasma,espirito_forca,artefato_pm:6",
+                  "investida,pulo_duplo,chamas,artefato_pm",
+                  "investida,pulo_duplo,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -1532,8 +1557,10 @@
                 "chest_unopened_img": "images/checks/crystal.png",
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
-                  "investida,pulo_duplo,chamas",
-                  "chamas,fantasma,artefato_pm:6"
+                  "chamas,fantasma,artefato_pm:6",
+                  "fantasma,espirito_forca,artefato_pm:6",
+                  "investida,pulo_duplo,chamas,artefato_pm",
+                  "investida,pulo_duplo,espirito_forca,artefato_pm:3"
                 ]
               },
               {
@@ -1544,8 +1571,10 @@
                 "chest_unopened_img": "images/checks/crystal.png",
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
-                  "investida,pulo_duplo,chamas",
-                  "chamas,fantasma,artefato_pm:6"
+                  "chamas,fantasma,artefato_pm:6",
+                  "fantasma,espirito_forca,artefato_pm:6",
+                  "investida,pulo_duplo,chamas,artefato_pm",
+                  "investida,pulo_duplo,espirito_forca,artefato_pm:3"
                 ]
               },
               {
@@ -1556,8 +1585,10 @@
                 "chest_unopened_img": "images/checks/crystal.png",
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
-                  "investida,pulo_duplo,chamas",
-                  "chamas,fantasma,artefato_pm:6"
+                  "chamas,fantasma,artefato_pm:6",
+                  "fantasma,espirito_forca,artefato_pm:6",
+                  "investida,pulo_duplo,chamas,artefato_pm",
+                  "investida,pulo_duplo,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -1835,7 +1866,8 @@
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
                   "espada,investida",
-                  "investida,chamas"
+                  "investida,chamas,artefato_pm",
+                  "investida,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -1870,7 +1902,8 @@
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
                   "espada,investida,pulo_duplo",
-                  "investida,pulo_duplo,chamas",
+                  "investida,pulo_duplo,chamas,artefato_pm",
+                  "investida,pulo_duplo,espirito_forca,artefato_pm:3",
                   "espada,investida,[pulo_duplo]"
                 ]
               }
@@ -1906,7 +1939,8 @@
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
                   "espada,investida",
-                  "investida,chamas"
+                  "investida,chamas,artefato_pm",
+                  "investida,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -1940,7 +1974,8 @@
                 "chest_unopened_img": "images/checks/crystal.png",
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
-                  "investida,pulo_duplo,chamas,fantasma,artefato_pm:2"
+                  "investida,pulo_duplo,chamas,fantasma,artefato_pm:2",
+                  "investida,pulo_duplo,fantasma,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -1975,7 +2010,8 @@
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
                   "espada,investida,pulo_duplo,fantasma,artefato_pm:2",
-                  "investida,pulo_duplo,chamas,fantasma,artefato_pm:2"
+                  "investida,pulo_duplo,chamas,fantasma,artefato_pm:2",
+                  "investida,pulo_duplo,fantasma,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -2010,7 +2046,8 @@
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
                   "espada,investida",
-                  "investida,chamas"
+                  "investida,chamas,artefato_pm",
+                  "investida,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -2045,7 +2082,8 @@
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
                   "espada,investida",
-                  "investida,chamas"
+                  "investida,chamas,artefato_pm",
+                  "investida,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -2080,7 +2118,8 @@
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
                   "espada,investida",
-                  "investida,chamas"
+                  "investida,chamas,artefato_pm",
+                  "investida,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -2115,7 +2154,8 @@
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
                   "espada,investida,pulo_duplo",
-                  "investida,pulo_duplo,chamas"
+                  "investida,pulo_duplo,chamas,artefato_pm",
+                  "investida,pulo_duplo,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -2150,7 +2190,8 @@
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
                   "espada,investida,pulo_duplo",
-                  "investida,pulo_duplo,chamas"
+                  "investida,pulo_duplo,chamas,artefato_pm",
+                  "investida,pulo_duplo,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -2185,7 +2226,8 @@
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
                   "espada,investida,pulo_duplo",
-                  "investida,pulo_duplo,chamas"
+                  "investida,pulo_duplo,chamas,artefato_pm",
+                  "investida,pulo_duplo,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -2253,7 +2295,8 @@
                 "chest_unopened_img": "images/checks/diary.png",
                 "chest_opened_img": "images/checks/diary_ok.png",
                 "access_rules": [
-                  "investida,chamas,artefato_pm"
+                  "investida,chamas,artefato_pm",
+                  "investida,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -2355,7 +2398,8 @@
                 "chest_unopened_img": "images/checks/spirit.png",
                 "chest_opened_img": "images/checks/spirit_ok.png",
                 "access_rules": [
-                  "investida,pulo_duplo,chamas,fantasma,artefato_pm:2"
+                  "investida,pulo_duplo,chamas,fantasma,artefato_pm:2",
+                  "investida,pulo_duplo,fantasma,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -2423,7 +2467,8 @@
                 "chest_unopened_img": "images/checks/spirit.png",
                 "chest_opened_img": "images/checks/spirit_ok.png",
                 "access_rules": [
-                  "investida,pulo_duplo,chamas,artefato_pm"
+                  "investida,pulo_duplo,chamas,artefato_pm",
+                  "investida,pulo_duplo,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -2492,7 +2537,8 @@
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
                   "espada,investida",
-                  "investida,chamas"
+                  "investida,chamas,artefato_pm",
+                  "investida,espirito_forca,artefato_pm:3"
                 ]
               },
               {
@@ -2504,7 +2550,8 @@
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
                   "espada,investida",
-                  "investida,chamas"
+                  "investida,chamas,artefato_pm",
+                  "investida,espirito_forca,artefato_pm:3"
                 ]
               },
               {
@@ -2516,7 +2563,8 @@
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
                   "espada,investida",
-                  "investida,chamas"
+                  "investida,chamas,artefato_pm",
+                  "investida,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -2555,7 +2603,8 @@
                 "chest_unopened_img": "images/checks/chest.png",
                 "chest_opened_img": "images/checks/chest_ok.png",
                 "access_rules": [
-                  "investida,pulo_duplo,chamas,fantasma,artefato_pm:4"
+                  "investida,pulo_duplo,chamas,fantasma,artefato_pm:4",
+                  "investida,pulo_duplo,fantasma,espirito_forca,artefato_pm:4"
                 ]
               }
             ],
@@ -2589,7 +2638,8 @@
                 "chest_unopened_img": "images/checks/chest.png",
                 "chest_opened_img": "images/checks/chest_ok.png",
                 "access_rules": [
-                  "investida,pulo_duplo,chamas,artefato_pm"
+                  "investida,pulo_duplo,chamas,artefato_pm",
+                  "investida,pulo_duplo,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -2623,7 +2673,8 @@
                 "chest_unopened_img": "images/checks/chest.png",
                 "chest_opened_img": "images/checks/chest_ok.png",
                 "access_rules": [
-                  "investida,pulo_duplo,chamas,respiracao,artefato_pm"
+                  "investida,pulo_duplo,chamas,respiracao,artefato_pm",
+                  "investida,pulo_duplo,respiracao,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -2657,7 +2708,8 @@
                 "chest_unopened_img": "images/checks/chest.png",
                 "chest_opened_img": "images/checks/chest_ok.png",
                 "access_rules": [
-                  "investida,pulo_duplo,chamas,artefato_pm"
+                  "investida,pulo_duplo,chamas,artefato_pm",
+                  "investida,pulo_duplo,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -2691,7 +2743,8 @@
                 "chest_unopened_img": "images/checks/chest.png",
                 "chest_opened_img": "images/checks/chest_ok.png",
                 "access_rules": [
-                  "investida,pulo_duplo,chamas,fantasma,artefato_pm:4"
+                  "investida,pulo_duplo,chamas,fantasma,artefato_pm:4",
+                  "investida,pulo_duplo,fantasma,espirito_forca,artefato_pm:4"
                 ]
               }
             ],
@@ -2725,7 +2778,8 @@
                 "chest_unopened_img": "images/checks/boss.png",
                 "chest_opened_img": "images/checks/boss_ok.png",
                 "access_rules": [
-                  "espada,investida,pulo_duplo,chamas,artefato_pm"
+                  "espada,investida,pulo_duplo,chamas,artefato_pm",
+                  "espada,investida,pulo_duplo,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -2759,7 +2813,8 @@
                 "chest_unopened_img": "images/checks/boss.png",
                 "chest_opened_img": "images/checks/boss_ok.png",
                 "access_rules": [
-                  "espada,investida,pulo_duplo,chamas,artefato_pm"
+                  "espada,investida,pulo_duplo,chamas,artefato_pm",
+                  "espada,investida,pulo_duplo,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -2793,7 +2848,8 @@
                 "chest_unopened_img": "images/checks/crystal.png",
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
-                  "investida,pulo_duplo,chamas,artefato_pm"
+                  "investida,pulo_duplo,chamas,artefato_pm",
+                  "investida,pulo_duplo,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -2827,7 +2883,8 @@
                 "chest_unopened_img": "images/checks/crystal.png",
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
-                  "investida,pulo_duplo,chamas,respiracao,artefato_pm"
+                  "investida,pulo_duplo,chamas,respiracao,artefato_pm",
+                  "investida,pulo_duplo,respiracao,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -2861,7 +2918,8 @@
                 "chest_unopened_img": "images/checks/crystal.png",
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
-                  "investida,pulo_duplo,chamas,fantasma,artefato_pm:2"
+                  "investida,pulo_duplo,chamas,fantasma,artefato_pm:2",
+                  "investida,pulo_duplo,fantasma,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -2895,7 +2953,8 @@
                 "chest_unopened_img": "images/checks/crystal.png",
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
-                  "investida,pulo_duplo,chamas,artefato_pm"
+                  "investida,pulo_duplo,chamas,artefato_pm",
+                  "investida,pulo_duplo,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -2929,7 +2988,8 @@
                 "chest_unopened_img": "images/checks/crystal.png",
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
-                  "investida,pulo_duplo,chamas,fantasma,artefato_pm"
+                  "investida,pulo_duplo,chamas,fantasma,artefato_pm",
+                  "investida,pulo_duplo,fantasma,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -2963,7 +3023,8 @@
                 "chest_unopened_img": "images/checks/crystal.png",
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
-                  "investida,pulo_duplo,chamas,artefato_pm"
+                  "investida,pulo_duplo,chamas,artefato_pm",
+                  "investida,pulo_duplo,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -2997,7 +3058,8 @@
                 "chest_unopened_img": "images/checks/crystal.png",
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
-                  "investida,pulo_duplo,chamas,fantasma,artefato_pm:4"
+                  "investida,pulo_duplo,chamas,fantasma,artefato_pm:4",
+                  "investida,pulo_duplo,fantasma,espirito_forca,artefato_pm:4"
                 ]
               }
             ],
@@ -3031,7 +3093,8 @@
                 "chest_unopened_img": "images/checks/crystal.png",
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
-                  "investida,pulo_duplo,chamas,fantasma,artefato_pm:2"
+                  "investida,pulo_duplo,chamas,fantasma,artefato_pm:2",
+                  "investida,pulo_duplo,fantasma,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -3065,7 +3128,8 @@
                 "chest_unopened_img": "images/checks/crystal.png",
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
-                  "investida,pulo_duplo,chamas,fantasma,artefato_pm:2"
+                  "investida,pulo_duplo,chamas,fantasma,artefato_pm:2",
+                  "investida,pulo_duplo,fantasma,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -3099,7 +3163,8 @@
                 "chest_unopened_img": "images/checks/crystal.png",
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
-                  "investida,pulo_duplo,chamas,fantasma,artefato_pm:4"
+                  "investida,pulo_duplo,chamas,fantasma,artefato_pm:4",
+                  "investida,pulo_duplo,fantasma,espirito_forca,artefato_pm:4"
                 ]
               }
             ],
@@ -3133,7 +3198,8 @@
                 "chest_unopened_img": "images/checks/crystal.png",
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
-                  "investida,pulo_duplo,chamas,artefato_pm"
+                  "investida,pulo_duplo,chamas,artefato_pm",
+                  "investida,pulo_duplo,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -3167,7 +3233,8 @@
                 "chest_unopened_img": "images/checks/crystal.png",
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
-                  "investida,pulo_duplo,chamas,fantasma,artefato_pm:2"
+                  "investida,pulo_duplo,chamas,fantasma,artefato_pm:2",
+                  "investida,pulo_duplo,fantasma,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -3201,7 +3268,8 @@
                 "chest_unopened_img": "images/checks/crystal.png",
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
-                  "investida,pulo_duplo,chamas,artefato_pm"
+                  "investida,pulo_duplo,chamas,artefato_pm",
+                  "investida,pulo_duplo,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -3235,7 +3303,8 @@
                 "chest_unopened_img": "images/checks/crystal.png",
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
-                  "investida,pulo_duplo,chamas,artefato_pm"
+                  "investida,pulo_duplo,chamas,artefato_pm",
+                  "investida,pulo_duplo,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -3269,7 +3338,8 @@
                 "chest_unopened_img": "images/checks/crystal.png",
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
-                  "investida,pulo_duplo,chamas,respiracao,artefato_pm"
+                  "investida,pulo_duplo,chamas,respiracao,artefato_pm",
+                  "investida,pulo_duplo,respiracao,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -3303,7 +3373,8 @@
                 "chest_unopened_img": "images/checks/crystal.png",
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
-                  "investida,pulo_duplo,chamas,respiracao,artefato_pm"
+                  "investida,pulo_duplo,chamas,respiracao,artefato_pm",
+                  "investida,pulo_duplo,respiracao,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -3337,7 +3408,8 @@
                 "chest_unopened_img": "images/checks/crystal.png",
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
-                  "investida,pulo_duplo,chamas,respiracao,artefato_pm"
+                  "investida,pulo_duplo,chamas,respiracao,artefato_pm",
+                  "investida,pulo_duplo,respiracao,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -3371,7 +3443,8 @@
                 "chest_unopened_img": "images/checks/crystal.png",
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
-                  "investida,pulo_duplo,chamas,artefato_pm"
+                  "investida,pulo_duplo,chamas,artefato_pm",
+                  "investida,pulo_duplo,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -3405,7 +3478,8 @@
                 "chest_unopened_img": "images/checks/crystal.png",
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
-                  "investida,pulo_duplo,chamas,artefato_pm"
+                  "investida,pulo_duplo,chamas,artefato_pm",
+                  "investida,pulo_duplo,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -3440,7 +3514,9 @@
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
                   "investida,pulo_duplo,chamas,fantasma,artefato_pm",
-                  "espada,investida,pulo_duplo,chamas,[fantasma],artefato_pm"
+                  "investida,pulo_duplo,fantasma,espirito_forca,artefato_pm:3",
+                  "espada,investida,pulo_duplo,chamas,[fantasma],artefato_pm",
+                  "espada,investida,pulo_duplo,[fantasma],espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -3475,7 +3551,9 @@
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
                   "investida,pulo_duplo,chamas,fantasma,artefato_pm",
-                  "espada,investida,pulo_duplo,chamas,[fantasma],artefato_pm"
+                  "investida,pulo_duplo,fantasma,espirito_forca,artefato_pm:3",
+                  "espada,investida,pulo_duplo,chamas,[fantasma],artefato_pm",
+                  "espada,investida,pulo_duplo,[fantasma],espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -3509,7 +3587,8 @@
                 "chest_unopened_img": "images/checks/crystal.png",
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
-                  "investida,pulo_duplo,chamas,artefato_pm"
+                  "investida,pulo_duplo,chamas,artefato_pm",
+                  "investida,pulo_duplo,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -3543,7 +3622,8 @@
                 "chest_unopened_img": "images/checks/crystal.png",
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
-                  "investida,pulo_duplo,chamas,respiracao,artefato_pm"
+                  "investida,pulo_duplo,chamas,respiracao,artefato_pm",
+                  "investida,pulo_duplo,respiracao,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -3577,7 +3657,8 @@
                 "chest_unopened_img": "images/checks/crystal.png",
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
-                  "investida,pulo_duplo,chamas,artefato_pm"
+                  "investida,pulo_duplo,chamas,artefato_pm",
+                  "investida,pulo_duplo,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -3611,7 +3692,8 @@
                 "chest_unopened_img": "images/checks/crystal.png",
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
-                  "investida,pulo_duplo,chamas,artefato_pm"
+                  "investida,pulo_duplo,chamas,artefato_pm",
+                  "investida,pulo_duplo,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -3645,7 +3727,8 @@
                 "chest_unopened_img": "images/checks/crystal.png",
                 "chest_opened_img": "images/checks/crystal_ok.png",
                 "access_rules": [
-                  "investida,pulo_duplo,chamas,artefato_pm"
+                  "investida,pulo_duplo,chamas,artefato_pm",
+                  "investida,pulo_duplo,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -3679,7 +3762,8 @@
                 "chest_unopened_img": "images/checks/diary.png",
                 "chest_opened_img": "images/checks/diary_ok.png",
                 "access_rules": [
-                  "investida,pulo_duplo,chamas,fantasma,artefato_pm"
+                  "investida,pulo_duplo,chamas,fantasma,artefato_pm",
+                  "investida,pulo_duplo,fantasma,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -3713,7 +3797,8 @@
                 "chest_unopened_img": "images/checks/diary.png",
                 "chest_opened_img": "images/checks/diary_ok.png",
                 "access_rules": [
-                  "investida,pulo_duplo,chamas,fantasma,artefato_pm:2"
+                  "investida,pulo_duplo,chamas,fantasma,artefato_pm:2",
+                  "investida,pulo_duplo,fantasma,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -3748,7 +3833,9 @@
                 "chest_opened_img": "images/checks/diary_ok.png",
                 "access_rules": [
                   "investida,pulo_duplo,chamas,fantasma,artefato_pm",
-                  "espada,investida,pulo_duplo,chamas,[fantasma],artefato_pm"
+                  "investida,pulo_duplo,fantasma,espirito_forca,artefato_pm:3",
+                  "espada,investida,pulo_duplo,chamas,[fantasma],artefato_pm",
+                  "espada,investida,pulo_duplo,[fantasma],espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -3782,7 +3869,8 @@
                 "chest_unopened_img": "images/checks/diary.png",
                 "chest_opened_img": "images/checks/diary_ok.png",
                 "access_rules": [
-                  "investida,pulo_duplo,chamas,respiracao,artefato_pm"
+                  "investida,pulo_duplo,chamas,respiracao,artefato_pm",
+                  "investida,pulo_duplo,respiracao,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -3816,7 +3904,8 @@
                 "chest_unopened_img": "images/checks/diary.png",
                 "chest_opened_img": "images/checks/diary_ok.png",
                 "access_rules": [
-                  "investida,pulo_duplo,chamas,fantasma,artefato_pm:2"
+                  "investida,pulo_duplo,chamas,fantasma,artefato_pm:2",
+                  "investida,pulo_duplo,fantasma,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -3850,7 +3939,8 @@
                 "chest_unopened_img": "images/checks/spirit.png",
                 "chest_opened_img": "images/checks/spirit_ok.png",
                 "access_rules": [
-                  "investida,pulo_duplo,chamas,artefato_pm"
+                  "investida,pulo_duplo,chamas,artefato_pm",
+                  "investida,pulo_duplo,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -3884,7 +3974,8 @@
                 "chest_unopened_img": "images/checks/spirit.png",
                 "chest_opened_img": "images/checks/spirit_ok.png",
                 "access_rules": [
-                  "investida,pulo_duplo,chamas,fantasma,artefato_pm:2"
+                  "investida,pulo_duplo,chamas,fantasma,artefato_pm:2",
+                  "investida,pulo_duplo,fantasma,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -3918,7 +4009,8 @@
                 "chest_unopened_img": "images/checks/spirit.png",
                 "chest_opened_img": "images/checks/spirit_ok.png",
                 "access_rules": [
-                  "investida,pulo_duplo,chamas,fantasma,artefato_pm:5"
+                  "investida,pulo_duplo,chamas,fantasma,artefato_pm:5",
+                  "investida,pulo_duplo,fantasma,espirito_forca,artefato_pm:5"
                 ]
               }
             ],
@@ -3952,7 +4044,8 @@
                 "chest_unopened_img": "images/checks/spirit.png",
                 "chest_opened_img": "images/checks/spirit_ok.png",
                 "access_rules": [
-                  "investida,pulo_duplo,chamas,artefato_pm"
+                  "investida,pulo_duplo,chamas,artefato_pm",
+                  "investida,pulo_duplo,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -3986,7 +4079,8 @@
                 "chest_unopened_img": "images/checks/spirit.png",
                 "chest_opened_img": "images/checks/spirit_ok.png",
                 "access_rules": [
-                  "investida,pulo_duplo,chamas,artefato_pm"
+                  "investida,pulo_duplo,chamas,artefato_pm",
+                  "investida,pulo_duplo,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -4020,7 +4114,8 @@
                 "chest_unopened_img": "images/checks/spirit.png",
                 "chest_opened_img": "images/checks/spirit_ok.png",
                 "access_rules": [
-                  "investida,pulo_duplo,chamas,respiracao,artefato_pm"
+                  "investida,pulo_duplo,chamas,respiracao,artefato_pm",
+                  "investida,pulo_duplo,respiracao,espirito_forca,artefato_pm:3"
                 ]
               }
             ],
@@ -4054,7 +4149,8 @@
                 "chest_unopened_img": "images/checks/spirit.png",
                 "chest_opened_img": "images/checks/spirit_ok.png",
                 "access_rules": [
-                  "investida,pulo_duplo,chamas,artefato_pm"
+                  "investida,pulo_duplo,chamas,artefato_pm",
+                  "investida,pulo_duplo,espirito_forca,artefato_pm:3"
                 ]
               },
               {
@@ -4065,7 +4161,8 @@
                 "chest_unopened_img": "images/checks/spirit.png",
                 "chest_opened_img": "images/checks/spirit_ok.png",
                 "access_rules": [
-                  "investida,pulo_duplo,chamas,diario:16,artefato_pm"
+                  "investida,pulo_duplo,chamas,diario:16,artefato_pm",
+                  "investida,pulo_duplo,espirito_forca,diario:16,artefato_pm:3"
                 ]
               }
             ],

@@ -42,6 +42,12 @@
     "codes": "fantasma"
   },
   {
+    "name": "Espírito da Força (rota de fogo alternativa)",
+    "type": "toggle",
+    "img": "images/itens/espirito.png",
+    "codes": "espirito_forca"
+  },
+  {
     "name": "Chave do Ancião 1",
     "type": "toggle",
     "img": "images/itens/chave1.png",
