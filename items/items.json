@@ -44,7 +44,7 @@
   {
     "name": "Espírito da Força (rota de fogo alternativa)",
     "type": "toggle",
-    "img": "images/itens/espirito.png",
+    "img": "images/espiritos/5.png",
     "codes": "espirito_forca"
   },
   {
@@ -104,5 +104,245 @@
     "max_quantity": 30,
     "initial_quantity": 0,
     "overlay_background": "000000"
+  },
+  {
+    "name": "Espírito das Almas",
+    "type": "toggle",
+    "img": "images/espiritos/1.png",
+    "codes": "espirito_1",
+    "overlay_background": "000000",
+    "overlay_font_size": 10
+  },
+  {
+    "name": "Espírito da Vitalidade",
+    "type": "toggle",
+    "img": "images/espiritos/2.png",
+    "codes": "espirito_2",
+    "overlay_background": "000000",
+    "overlay_font_size": 10
+  },
+  {
+    "name": "Espírito da Fúria",
+    "type": "toggle",
+    "img": "images/espiritos/3.png",
+    "codes": "espirito_3",
+    "overlay_background": "000000",
+    "overlay_font_size": 10
+  },
+  {
+    "name": "Espírito da Agilidade",
+    "type": "toggle",
+    "img": "images/espiritos/4.png",
+    "codes": "espirito_4",
+    "overlay_background": "000000",
+    "overlay_font_size": 10
+  },
+  {
+    "name": "Espírito da Força",
+    "type": "toggle",
+    "img": "images/espiritos/5.png",
+    "codes": "espirito_5",
+    "overlay_background": "000000",
+    "overlay_font_size": 10
+  },
+  {
+    "name": "Espírito da Sorte",
+    "type": "toggle",
+    "img": "images/espiritos/6.png",
+    "codes": "espirito_6",
+    "overlay_background": "000000",
+    "overlay_font_size": 10
+  },
+  {
+    "name": "Espírito da Velocidade",
+    "type": "toggle",
+    "img": "images/espiritos/7.png",
+    "codes": "espirito_7",
+    "overlay_background": "000000",
+    "overlay_font_size": 10
+  },
+  {
+    "name": "Espírito de Kaminari",
+    "type": "toggle",
+    "img": "images/espiritos/8.png",
+    "codes": "espirito_8",
+    "overlay_background": "000000",
+    "overlay_font_size": 10
+  },
+  {
+    "name": "Espírito do Ouriço Azul",
+    "type": "toggle",
+    "img": "images/espiritos/9.png",
+    "codes": "espirito_9",
+    "overlay_background": "000000",
+    "overlay_font_size": 10
+  },
+  {
+    "name": "Espírito Protetor",
+    "type": "toggle",
+    "img": "images/espiritos/10.png",
+    "codes": "espirito_10",
+    "overlay_background": "000000",
+    "overlay_font_size": 10
+  },
+  {
+    "name": "Espírito do Bibliotecário",
+    "type": "toggle",
+    "img": "images/espiritos/11.png",
+    "codes": "espirito_11",
+    "overlay_background": "000000",
+    "overlay_font_size": 10
+  },
+  {
+    "name": "Espírito do Colecionador",
+    "type": "toggle",
+    "img": "images/espiritos/12.png",
+    "codes": "espirito_12",
+    "overlay_background": "000000",
+    "overlay_font_size": 10
+  },
+  {
+    "name": "Espírito do Coração",
+    "type": "toggle",
+    "img": "images/espiritos/13.png",
+    "codes": "espirito_13",
+    "overlay_background": "000000",
+    "overlay_font_size": 10
+  },
+  {
+    "name": "Espírito dos Perdidos",
+    "type": "toggle",
+    "img": "images/espiritos/14.png",
+    "codes": "espirito_14",
+    "overlay_background": "000000",
+    "overlay_font_size": 10
+  },
+  {
+    "name": "Espírito do Conhecimento",
+    "type": "toggle",
+    "img": "images/espiritos/15.png",
+    "codes": "espirito_15",
+    "overlay_background": "000000",
+    "overlay_font_size": 10
+  },
+  {
+    "name": "Espírito da Chama Eterna",
+    "type": "toggle",
+    "img": "images/espiritos/16.png",
+    "codes": "espirito_16",
+    "overlay_background": "000000",
+    "overlay_font_size": 10
+  },
+  {
+    "name": "Espírito da Dor",
+    "type": "toggle",
+    "img": "images/espiritos/17.png",
+    "codes": "espirito_17",
+    "overlay_background": "000000",
+    "overlay_font_size": 10
+  },
+  {
+    "name": "Espírito do Redemoinho",
+    "type": "toggle",
+    "img": "images/espiritos/18.png",
+    "codes": "espirito_18",
+    "overlay_background": "000000",
+    "overlay_font_size": 10
+  },
+  {
+    "name": "Espírito de Amaterasu",
+    "type": "toggle",
+    "img": "images/espiritos/19.png",
+    "codes": "espirito_19",
+    "overlay_background": "000000",
+    "overlay_font_size": 10
+  },
+  {
+    "name": "Espírito Espectral",
+    "type": "toggle",
+    "img": "images/espiritos/20.png",
+    "codes": "espirito_20",
+    "overlay_background": "000000",
+    "overlay_font_size": 10
+  },
+  {
+    "name": "Espírito Destruidor",
+    "type": "toggle",
+    "img": "images/espiritos/21.png",
+    "codes": "espirito_21",
+    "overlay_background": "000000",
+    "overlay_font_size": 10
+  },
+  {
+    "name": "Espírito do Sábio das Montanhas",
+    "type": "toggle",
+    "img": "images/espiritos/22.png",
+    "codes": "espirito_22",
+    "overlay_background": "000000",
+    "overlay_font_size": 10
+  },
+  {
+    "name": "Espírito da Retaliação",
+    "type": "toggle",
+    "img": "images/espiritos/23.png",
+    "codes": "espirito_23",
+    "overlay_background": "000000",
+    "overlay_font_size": 10
+  },
+  {
+    "name": "Espírito de Kamui",
+    "type": "toggle",
+    "img": "images/espiritos/24.png",
+    "codes": "espirito_24",
+    "overlay_background": "000000",
+    "overlay_font_size": 10
+  },
+  {
+    "name": "Espírito da Cura",
+    "type": "toggle",
+    "img": "images/espiritos/25.png",
+    "codes": "espirito_25",
+    "overlay_background": "000000",
+    "overlay_font_size": 10
+  },
+  {
+    "name": "Espírito Resiliente",
+    "type": "toggle",
+    "img": "images/espiritos/26.png",
+    "codes": "espirito_26",
+    "overlay_background": "000000",
+    "overlay_font_size": 10
+  },
+  {
+    "name": "Espírito Etéreo",
+    "type": "toggle",
+    "img": "images/espiritos/27.png",
+    "codes": "espirito_27",
+    "overlay_background": "000000",
+    "overlay_font_size": 10
+  },
+  {
+    "name": "Espírito Ígneo",
+    "type": "toggle",
+    "img": "images/espiritos/28.png",
+    "codes": "espirito_28",
+    "overlay_background": "000000",
+    "overlay_font_size": 10
+  },
+  {
+    "name": "Espírito Orbital",
+    "type": "toggle",
+    "img": "images/espiritos/29.png",
+    "codes": "espirito_29",
+    "overlay_background": "000000",
+    "overlay_font_size": 10
+  },
+  {
+    "name": "Espírito de Crisaegr",
+    "type": "toggle",
+    "img": "images/espiritos/30.png",
+    "codes": "espirito_30",
+    "overlay_background": "000000",
+    "overlay_font_size": 10
   }
 ]
