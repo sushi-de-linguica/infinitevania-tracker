@@ -71,5 +71,117 @@
         "espirito"
       ]
     ]
+  },
+  "grade_espiritos": {
+    "type": "itemgrid",
+    "orientation": "vertical",
+    "margin": "2,2",
+    "item_margin": "2,2",
+    "item_size": "24",
+    "h_alignment": "center",
+    "rows": [
+      [
+        "espirito_1",
+        "espirito_2",
+        "espirito_3",
+        "espirito_4",
+        "espirito_5",
+        "espirito_6",
+        "espirito_7",
+        "espirito_8",
+        "espirito_9",
+        "espirito_10"
+      ],
+      [
+        "espirito_11",
+        "espirito_12",
+        "espirito_13",
+        "espirito_14",
+        "espirito_15",
+        "espirito_16",
+        "espirito_17",
+        "espirito_18",
+        "espirito_19",
+        "espirito_20"
+      ],
+      [
+        "espirito_21",
+        "espirito_22",
+        "espirito_23",
+        "espirito_24",
+        "espirito_25",
+        "espirito_26",
+        "espirito_27",
+        "espirito_28",
+        "espirito_29",
+        "espirito_30"
+      ]
+    ]
+  },
+  "grade_espiritos_pm1": {
+    "type": "itemgrid",
+    "orientation": "vertical",
+    "margin": "2,2",
+    "item_margin": "2,2",
+    "item_size": "24",
+    "h_alignment": "left",
+    "rows": [
+      [
+        "espirito_2",
+        "espirito_3",
+        "espirito_7",
+        "espirito_9",
+        "espirito_11",
+        "espirito_12",
+        "espirito_13",
+        "espirito_14",
+        "espirito_15",
+        "espirito_18",
+        "espirito_21",
+        "espirito_24"
+      ]
+    ]
+  },
+  "grade_espiritos_pm2": {
+    "type": "itemgrid",
+    "orientation": "vertical",
+    "margin": "2,2",
+    "item_margin": "2,2",
+    "item_size": "24",
+    "h_alignment": "left",
+    "rows": [
+      [
+        "espirito_6",
+        "espirito_17",
+        "espirito_19",
+        "espirito_22",
+        "espirito_23",
+        "espirito_26",
+        "espirito_27",
+        "espirito_28"
+      ]
+    ]
+  },
+  "grade_espiritos_pm3": {
+    "type": "itemgrid",
+    "orientation": "vertical",
+    "margin": "2,2",
+    "item_margin": "2,2",
+    "item_size": "24",
+    "h_alignment": "left",
+    "rows": [
+      [
+        "espirito_1",
+        "espirito_4",
+        "espirito_5",
+        "espirito_8",
+        "espirito_10",
+        "espirito_16",
+        "espirito_20",
+        "espirito_25",
+        "espirito_29",
+        "espirito_30"
+      ]
+    ]
   }
 }

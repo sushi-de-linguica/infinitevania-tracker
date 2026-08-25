@@ -59,6 +59,61 @@
                 "h_alignment": "center",
                 "v_alignment": "center"
               }
+            },
+            {
+              "type": "group",
+              "header": "Espíritos",
+              "dock": "left",
+              "margin": "0,0,4,0",
+              "content": {
+                "type": "layout",
+                "key": "grade_espiritos",
+                "h_alignment": "center",
+                "v_alignment": "center"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Espíritos por PM",
+              "dock": "left",
+              "margin": "0,0,4,0",
+              "content": {
+                "type": "array",
+                "orientation": "vertical",
+                "margin": "0,0",
+                "content": [
+                  {
+                    "type": "group",
+                    "header": "1 PM",
+                    "content": {
+                      "type": "layout",
+                      "key": "grade_espiritos_pm1",
+                      "h_alignment": "left",
+                      "v_alignment": "center"
+                    }
+                  },
+                  {
+                    "type": "group",
+                    "header": "2 PM",
+                    "content": {
+                      "type": "layout",
+                      "key": "grade_espiritos_pm2",
+                      "h_alignment": "left",
+                      "v_alignment": "center"
+                    }
+                  },
+                  {
+                    "type": "group",
+                    "header": "3 PM",
+                    "content": {
+                      "type": "layout",
+                      "key": "grade_espiritos_pm3",
+                      "h_alignment": "left",
+                      "v_alignment": "center"
+                    }
+                  }
+                ]
+              }
             }
           ]
         },
@@ -89,6 +144,10 @@
       {
         "type": "layout",
         "key": "grade_contadores"
+      },
+      {
+        "type": "layout",
+        "key": "grade_espiritos"
       }
     ]
   }
